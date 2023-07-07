@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"github.com/microsoftgraph/msgraph-sdk-go/models"
+	"github.com/chszchen-nordcloud/msgraph-sdk-go/models"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

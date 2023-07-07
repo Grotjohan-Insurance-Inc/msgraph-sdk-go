@@ -3,10 +3,10 @@ package msgraphsdkgo
 import (
 	"errors"
 	"github.com/Azure/azure-sdk-for-go/sdk/azcore"
+	if6ffd1464db2d9c22e351b03e4c00ebd24a5353cd70ffb7f56cfad1c3ceec329 "github.com/chszchen-nordcloud/msgraph-sdk-go/users"
 	abstractions "github.com/microsoft/kiota-abstractions-go"
 	"github.com/microsoft/kiota-abstractions-go/store"
 	az "github.com/microsoftgraph/msgraph-sdk-go-core/authentication"
-	if6ffd1464db2d9c22e351b03e4c00ebd24a5353cd70ffb7f56cfad1c3ceec329 "github.com/microsoftgraph/msgraph-sdk-go/users"
 )
 
 type GraphServiceClient struct {
